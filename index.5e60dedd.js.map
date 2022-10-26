@@ -1,0 +1,1 @@
+{"mappings":"AACcA,SAASC,cAAc,sBACxBD,SAASC,cAAc","sources":["src/js/refs.js"],"sourcesContent":["export const refs = {\n    listHome: document.querySelector('.film-list-home-js'),\n    listLib: document.querySelector('.film-list-lib-js'),\n}"],"names":["document","querySelector"],"version":3,"file":"index.5e60dedd.js.map"}
